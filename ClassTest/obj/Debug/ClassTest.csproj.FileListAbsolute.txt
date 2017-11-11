@@ -1,0 +1,6 @@
+c:\users\ruiz\documents\visual studio 2012\Projects\ClassTest\ClassTest\bin\Debug\ClassTest.exe.config
+c:\users\ruiz\documents\visual studio 2012\Projects\ClassTest\ClassTest\bin\Debug\ClassTest.exe
+c:\users\ruiz\documents\visual studio 2012\Projects\ClassTest\ClassTest\bin\Debug\ClassTest.pdb
+c:\users\ruiz\documents\visual studio 2012\Projects\ClassTest\ClassTest\obj\Debug\ClassTest.csprojResolveAssemblyReference.cache
+c:\users\ruiz\documents\visual studio 2012\Projects\ClassTest\ClassTest\obj\Debug\ClassTest.exe
+c:\users\ruiz\documents\visual studio 2012\Projects\ClassTest\ClassTest\obj\Debug\ClassTest.pdb
